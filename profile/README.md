@@ -1,6 +1,6 @@
 ## KASK Reading Group 
 
-📚 KASK Reading Group is a research organisation of (PhD/MSc) students interested in neural networks.
+📚 KASK Reading Group is a research organisation of PhD students interested in neural networks.
 🧐 We are collaboratively reading and discussing advances in the area. 
 
 We meet fortnightly on Wednesdays at 5 PM. 
