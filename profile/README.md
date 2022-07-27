@@ -4,7 +4,7 @@
 🧐 We are collaboratively reading and discussing advances in the area. 
 
 We meet fortnightly on Wednesdays at 5 PM. 
-Our first meeting was at 06.07.2022.
+The first meeting was at 06.07.2022.
 
 ## Presentations:
 - [ ] [07.09.2022] Szymon Olewniczak: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814)
