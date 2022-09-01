@@ -17,5 +17,3 @@ The first meeting was at 06.07.2022.
 
 ## We
 <img src="we.jpg" width=500/>
-
-<img src="we2.jpg" width=500/>
