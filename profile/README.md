@@ -7,8 +7,8 @@ We meet fortnightly on Wednesdays at 17:00 in classroom 527.
 The first meeting was on 06.07.2022.
 
 ## Presentations:
-- [ ] [12.10.2022] Stanislaw Baranski: [Machine Learning Approach to Personality Type Prediction Based on the Myers–Briggs Type Indicator](https://www.mdpi.com/2414-4088/4/1/9/pdf?version=1584527137)
-- [ ] [05.10.2022] Robert Benke: [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://ieeexplore.ieee.org/iel7/34/4359286/09721082.pdf)
+- [ ] [19.10.2022] Stanislaw Baranski: [Machine Learning Approach to Personality Type Prediction Based on the Myers–Briggs Type Indicator](https://www.mdpi.com/2414-4088/4/1/9/pdf?version=1584527137)
+- [x] [05.10.2022] Robert Benke: [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://ieeexplore.ieee.org/iel7/34/4359286/09721082.pdf)
 - [x] [21.09.2022] Szymon Olewniczak: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814)
 - [x] [07.09.2022] Jan Wasilewski: [Weight Uncertainty in Neural Networks](https://github.com/KASK-Reading-Group/.github/discussions/3)
 - [x] [31.08.2022] Jan Wasilewski: A brief introduction to [Weight Uncertainty in Neural Networks](https://github.com/KASK-Reading-Group/.github/discussions/3)
