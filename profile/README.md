@@ -18,4 +18,4 @@ The first meeting was on 06.07.2022.
 - [x] [06.07.2022] Robert Benke: [A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"](https://openreview.net/pdf?id=uxgg9o7bI_3)
 
 ## We
-<img src="../we.jpg" width=800/>
+<img src="we.jpg" width=800/>
