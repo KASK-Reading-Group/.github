@@ -6,9 +6,9 @@
 We meet fortnightly on Wednesdays at 17:00 in classroom 527.
 The first meeting was on 06.07.2022.
 
-## Presentations:
-
-- [ ] [21.12.2022] Szymon Olewniczak: [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://arxiv.org/abs/2003.05473)
+## Meetings:
+- [x] [18.01.2023] [First working group](https://github.com/KASK-Reading-Group/.github/discussions/5)
+- [x] [21.12.2022] Szymon Olewniczak: [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://arxiv.org/abs/2003.05473)
 - [x] [07.12.2022] Robert Benke: [Deep Bidirectional Language-Knowledge Graph Pretraining](https://arxiv.org/abs/2210.09338)
 - [x] [16.11.2022] Szymon Olewniczak: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [x] [02.11.2022] Jan Wasilewski: [Uncertainty Estimation Using a Single Deep Deterministic Neural Network](https://arxiv.org/abs/2003.02037)
